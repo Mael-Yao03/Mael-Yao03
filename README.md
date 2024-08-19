@@ -6,7 +6,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mael-Yao03&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Mael-Yao03" /></p>
 
 
-- 🔭 I’m currently working on backend projects 😌
+- 🔭 I’m currently working on **backend projects** 😌
 - 🌱 I’m currently learning **NodeJs 😏😉**
 - 💬 Ask me about **PHP, Symfony and Laravel**
 - 📫 How to reach me **mael.yao@epitech.eu**
