@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"/>
+ <i class="devicon-visualstudio-plain" font-size="40"></i>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
