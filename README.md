@@ -62,7 +62,7 @@
 </a>
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
- <i class="devicon-visualstudio-plain" font-size="40"></i>
+ <i class="devicon-visualstudio-plain" style="font-size=0"></i>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
