@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAËL YAO</h1>
-<h3 align="center">The backend you can rely on</h3>
+<h3 align="center">The fullstack you can rely on</h3>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mael-Yao03&show_icons=true&theme=vue-dark&hide_border=true" alt="Stats GitHub" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mael-Yao03&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="Mael" />
 </p>
