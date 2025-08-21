@@ -38,7 +38,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
       <br>NextJS
-    </td> -->
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -138,7 +138,7 @@
 
 </div>     
 
-<p align="left">
+<!-- <p align="left">
 
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -191,6 +191,6 @@
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="40" height="40"/>
-</a>
+</a> -->
 
 <p align="cente"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mael-Yao03&theme=nord" alt="Mael-Yao03" /></a> </p>
