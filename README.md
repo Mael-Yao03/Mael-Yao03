@@ -126,7 +126,7 @@
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+      <br>Stack overflow
     </td>
       <!--        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
